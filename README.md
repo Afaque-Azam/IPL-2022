@@ -1,9 +1,9 @@
-🏏 IPL 2022 Data Analysis
+## 🏏 IPL 2022 Data Analysis
 
 A data-driven analysis of IPL 2022 using NumPy, Pandas, Matplotlib, and Seaborn.
 This project explores team performance, match outcomes, scoring trends, and player impact through clear visualizations.
 
-🔍 Project Overview
+## 🔍 Project Overview
 
 ✨ Cleaned and analyzed the IPL 2022 dataset
 📊 Explored team and player performance
@@ -11,7 +11,7 @@ This project explores team performance, match outcomes, scoring trends, and play
 📈 Analyzed batting and bowling trends
 📍 Studied venue-wise and stage-wise patterns
 
-📊 Visualizations Included
+## 📊 Visualizations Included
 
 Using Matplotlib & Seaborn, the project includes:
 
@@ -29,7 +29,7 @@ Using Matplotlib & Seaborn, the project includes:
 
 📈 Line, Bar, Scatter, and Histogram Plots
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 🧮 NumPy
 
@@ -41,11 +41,11 @@ Using Matplotlib & Seaborn, the project includes:
 
 📘 Jupyter Notebook
 
-🚀 How to Run
+## 🚀 How to Run
 pip install numpy pandas matplotlib seaborn
 jupyter notebook ipl2022_project.ipynb
 
-🎯 Key Insights
+## 🎯 Key Insights
 
 🏅 Consistent teams of IPL 2022
 
@@ -55,6 +55,6 @@ jupyter notebook ipl2022_project.ipynb
 
 🎲 Impact of toss decisions
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Afaque Azam
